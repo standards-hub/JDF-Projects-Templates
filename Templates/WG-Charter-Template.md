@@ -23,11 +23,11 @@ This Working Group Charter establishes the Scope and intellectual property terms
   2. **Working Group Scope** The scope of the Governance Stack Working Group is to define models and interoperability standards for governance frameworks that enable business, legal, and social trust between entities implementing the Trust over IP architecture stack as defined in Hyperledger Aries RFC 0289 (or its successor as identified in the RFC document itself)
   3. **Copyright Licensing** Each Working Group must specify the copyright mode under which it will operate prior to initiating any work on any Draft Deliverable or Approved Deliverable other than source code or datasets. The copyright mode for this Working Group is:  *[Check one box]* 
 
-    -[ ] **Copyright Grant to Project**, as set forth in Appendix B, Copyright Policy Option 1. 
+    - [ ] **Copyright Grant to Project**, as set forth in Appendix B, Copyright Policy Option 1. 
 
-    -[ ] **Creative Commons Attribution 4.0**, as set forth in Appendix B, Copyright Policy Option 2. 
+    - [ ] **Creative Commons Attribution 4.0**, as set forth in Appendix B, Copyright Policy Option 2. 
 
-    -[ ] **Open Web Foundation 1.0**. (Only for those Working Groups selecting the Open Web Foundation mode for patent licensing). 
+    - [ ] **Open Web Foundation 1.0**. (Only for those Working Groups selecting the Open Web Foundation mode for patent licensing). 
 
   4. **Patent Licensing**. Each Working Group must specify the patent mode under which it will operate prior to initiating any work on any Draft Deliverable or Approved Deliverable other than source code or datasets. The patent mode for this Working Group is: [Check one box] 
 
@@ -42,7 +42,7 @@ This Working Group Charter establishes the Scope and intellectual property terms
     - [ ] **No Patent License**.  No patent licenses are granted for the Draft Deliverables or Approved Deliverables developed by this Working Group.   
 
 #### Source Code
--[ ] **Source Code**. Working Group Participants contributing source code to this Working Group agree that those source code contributions are subject to the Developer Certificate of Origin version 1.1, available at http://developercertificate.org/, the license indicated below, and any policies and governance rules included in the source code’s repository.  Source code may not be a required element of an Approved Deliverable specification.  ***[Check one box]*** 
+- [ ] **Source Code**. Working Group Participants contributing source code to this Working Group agree that those source code contributions are subject to the Developer Certificate of Origin version 1.1, available at http://developercertificate.org/, the license indicated below, and any policies and governance rules included in the source code’s repository.  Source code may not be a required element of an Approved Deliverable specification.  ***[Check one box]*** 
 
   - [ ] **Apache 2.0**, available at http://www.apache.org/licenses/LICENSE-2.0.html.   
 
