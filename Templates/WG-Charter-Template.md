@@ -68,6 +68,6 @@ This Working Group will create:  [Check Specification, Source Code, and/or Datas
   - [ ] **Other**  ________________________________________.
 
 ### Non-Working Group Participant Feedback and Participation.
-* Upon the Approval of the Working Group Participants, the Working Group can request feedback from and/or allow Non-Working Group Participant participation in a Working Group, subject to each Non-Working Group Participant executing the Non-Member Agreement set forth in **Appendix C**.
+Upon the Approval of the Working Group Participants, the Working Group can request feedback from and/or allow Non-Working Group Participant participation in a Working Group, subject to each Non-Working Group Participant executing the Non-Member Agreement set forth in **Appendix C**.
  
 By making a Contribution to this Working Group or adding its name to this Working Group’s member list, the member agrees to the terms of this Working Group Charter.
