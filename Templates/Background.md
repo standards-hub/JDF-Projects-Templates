@@ -16,12 +16,12 @@ If it’s a good fit, Joint Development Foundation Projects, LLC will create the
 #### Sign the Membership Agreement
 Joint Development Foundation Projects, LLC will then provide you with a Membership Agreement, Project Charter and Working Group Charter(s) for your Project to complete.
 
--[] Membership Agreement  
+-[ ] Membership Agreement  
         The Membership Agreement establishes the options selected by the Project, and is the document that is executed to join that Project.
 
--[] Project Charter  
+-[ ] Project Charter  
         The Project Charter establishes the Project and includes the governance and legal terms for the Project and its Steering Committee.
--[] Working Group Charters
+-[ ] Working Group Charters
     Each Project may then complete one or more Working Group Charters, which establishes the governance, scope and intellectual property terms for each Working Group under the Project.
 
 #### Get to Work
