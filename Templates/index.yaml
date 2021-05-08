@@ -1,0 +1,16 @@
+---
+title: "Joint Development Foundation Projects, LLC"
+status: "Draft"
+version: "5.0.1"
+organisationName: "Joint Development Foundation"
+date: "2021-05-07"
+copyrightDate: "2021"
+logo: "images/jdf.png"
+documentName: "ToIP 5.0.1 - V1.2"
+files:
+  - License.md
+  - Background.md
+  - Membership-Agreement.md
+  - Project-Charter.md
+  - WG-Charter-Template.md
+---
